@@ -159,7 +159,7 @@
 
 記事の内部に記載する際は pre タグなどを活用することを推奨します。
 
-外部のサイトとして認めるものは GitHub と GitLab の二つです。その際は一つのコミットだけを指すようなリンクにしてください。つまり、 https://github.com/Hexirp/googology-in-coq/blob/master/theories/Main.v のようなものは認められず https://github.com/Hexirp/googology-in-coq/blob/15939a4a62863beb5a10b47563275139d875bc31/theories/Main.v のようなものは認められます。
+外部のサイトとして認めるものは GitHub と GitLab の二つです。その際は一つのコミットだけを指すようなリンクにしてください。つまり、 https://github.com/Hexirp/googology-in-coq/blob/master/theories/Main.v のようなリンクは認められず https://github.com/Hexirp/googology-in-coq/blob/15939a4a62863beb5a10b47563275139d875bc31/theories/Main.v のようなリンクは認められます。
 
 リンクが正しくないなど、何らかの理由によってプログラムにアクセスできない場合は無効になります。
 
