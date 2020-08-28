@@ -1,0 +1,37 @@
+式神巨大数の現況を報告します。
+
+== 5 ==
+
+Nayuta Ito 氏により 2020年7月6日 (月) 08:45 (JST) に[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:Nayuta_Ito/%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0%E5%AF%A9%E6%9F%BB/2020%E5%B9%B4%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0%E5%B0%8F%E5%AF%A9%E6%9F%BB%E3%81%BE%E3%81%A8%E3%82%81?oldid=24810 ユーザーブログ:Nayuta_Ito/式神巨大数審査/2020年式神巨大数小審査まとめ]が投稿されました。
+
+[https://googology.wikia.org/wiki/User_blog:Antimony_Star/Submission_to_%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0?oldid=289298 User_blog:Antimony_Star/Submission_to_式神巨大数] を無効と判定しています。
+
+== 6 ==
+
+2020年7月10日 (金) 23:23 (JST) 、審査期間を一ヶ月間延長しました。
+
+== 7 ==
+
+Nayuta Ito 氏により 2020年7月15日 (水) 16:03 (JST) に[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:Nayuta_Ito/%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0%E5%AF%A9%E6%9F%BB/%E8%87%AA%E5%B7%B1%E5%A2%97%E6%AE%96%E3%82%B3%E3%83%BC%E3%83%89%E6%95%B0%E3%81%AE%E8%A7%A3%E6%9E%90?oldid=25880 ユーザーブログ:Nayuta_Ito/式神巨大数審査/自己増殖コード数の解析]が投稿されました。
+
+[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:P%E9%80%B2%E5%A4%A7%E5%A5%BD%E3%81%8Dbot/%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0%E6%8A%95%E7%A8%BF%E7%94%A8%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%81%9D%E3%81%AE%EF%BC%92?oldid=23081 ユーザーブログ:P進大好きbot/式神巨大数投稿用エントリーその２]の上限を \( f _ \omega ^ { 10 } ( 20 ) \) としています。
+
+== 8 ==
+
+Okkuu 氏により2020年7月24日に \( \mathbb{Q} _ p \) の導入が困難であることが式神巨大数運営's server で報告されました。
+
+== 9 ==
+
+私が進めていた[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:Hexirp/(2020-07-17)_lambda_3_%E3%81%AE%E8%A7%A3%E6%9E%90 ユーザーブログ:Hexirp/(2020-07-17)_lambda_3_の解析]において発見された疑問点を[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:Merliborn/%EF%BC%BBsikigamig%EF%BC%BDLambda-zip?oldid=23748 ユーザーブログ:Merliborn/［sikigamig］Lambda-zip]のコメントで質問した所、2020年8月11日にバグであるという返答がありました。
+
+== 10 ==
+
+2020年8月15日 (土) 14:09 (JST) 、審査期間を一ヶ月間延長しました。
+
+== 11 ==
+
+Okkuu 氏により[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:%E3%81%BF%E3%81%9A%E3%81%A9%E3%82%89/%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC_%E7%B7%A8%E9%9B%86%E4%B8%AD?oldid=23008 ユーザーブログ:みずどら/式神巨大数エントリー_編集中]が正しく白アスター数を出力するものになっていることが確認されました。
+
+== 関連項目 ==
+
+{{User:Hexirp/式神巨大数}}
