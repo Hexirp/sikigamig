@@ -153,7 +153,7 @@ main.min.min.jsは(0,2)[11](というか多分11以上の任意の自然数)の�
 
 === エントリー 4 ===
 
-'''20年代初頭のブラクラ数'''は、審査 2 により \( f _ { \varepsilon { \varepsilon _ { \varepsilon _ { \varepsilon _ 5 } } } } ( 6 ) \) と近似されると思われます。
+'''20年代初頭のブラクラ数'''は、審査 2 により \( f _ { \varepsilon _ { \varepsilon _ { \varepsilon _ { \varepsilon _ 5 } } } } ( 6 ) \) と近似されると思われます。
 
 === エントリー 5 ===
 
