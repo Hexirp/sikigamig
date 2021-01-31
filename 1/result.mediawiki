@@ -60,25 +60,25 @@ Nayuta Ito 氏により 2020年7月6日 (月) 08:45 (JST) に[https://googology.
 
 [https://googology.wikia.org/wiki/User_blog:Antimony_Star/Submission_to_%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0?oldid=289298 User_blog:Antimony_Star/Submission_to_式神巨大数] を無効と判定しています。
 
-=== 審査 7 ===
+=== 審査 6 ===
 
 Nayuta Ito 氏により 2020年7月16日 (水) 19:15 (JST) に[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:Nayuta_Ito/%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0%E5%AF%A9%E6%9F%BB/%E8%87%AA%E5%B7%B1%E5%A2%97%E6%AE%96%E3%82%B3%E3%83%BC%E3%83%89%E6%95%B0%E3%81%AE%E8%A7%A3%E6%9E%90?oldid=25924 ユーザーブログ:Nayuta_Ito/式神巨大数審査/自己増殖コード数の解析]が投稿されました。
 
 [https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:P%E9%80%B2%E5%A4%A7%E5%A5%BD%E3%81%8Dbot/%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0%E6%8A%95%E7%A8%BF%E7%94%A8%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%81%9D%E3%81%AE%EF%BC%92?oldid=23081 ユーザーブログ:P進大好きbot/式神巨大数投稿用エントリーその２]の上限を \( f _ \omega ^ { 10 } ( 20 ) \) としています。
 
-=== 審査 8 ===
+=== 審査 7 ===
 
 Okkuu 氏により2020年7月24日に \( \mathbb{Q} _ p \) の導入が困難であることが式神巨大数運営's server で報告されました。
 
-=== 審査 9 ===
+=== 審査 8 ===
 
 私が進めていた[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:Hexirp/(2020-07-17)_lambda_3_%E3%81%AE%E8%A7%A3%E6%9E%90 ユーザーブログ:Hexirp/(2020-07-17)_lambda_3_の解析]において発見された疑問点を[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:Merliborn/%EF%BC%BBsikigamig%EF%BC%BDLambda-zip?oldid=23748 ユーザーブログ:Merliborn/［sikigamig］Lambda-zip] のコメントで質問した所、2020年8月11日にバグであるという返答がありました。
 
-=== 審査 11 ===
+=== 審査 9 ===
 
 Okkuu 氏により[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:%E3%81%BF%E3%81%9A%E3%81%A9%E3%82%89/%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC_%E7%B7%A8%E9%9B%86%E4%B8%AD?oldid=23008 ユーザーブログ:みずどら/式神巨大数エントリー_編集中]が正しく白アスター数を出力するものになっていることが確認されたと式神巨大数運営's server で報告がありました。
 
-=== 審査 12 ===
+=== 審査 10 ===
 
 2020/09/15 (JST) に Okkuu 氏により式神巨大数運営's server で[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:P%E9%80%B2%E5%A4%A7%E5%A5%BD%E3%81%8Dbot/%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0%E6%8A%95%E7%A8%BF%E7%94%A8%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC?oldid=23300 ユーザーブログ:P進大好きbot/式神巨大数投稿用エントリー]の解析が投稿されました。
 
@@ -94,7 +94,7 @@ https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9
 
 それは上記のような内容でした。
 
-=== 審査 13 ===
+=== 審査 11 ===
 
 2020/09/19 (JST) に Okkuu 氏により式神巨大数運営's server で[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:P%E9%80%B2%E5%A4%A7%E5%A5%BD%E3%81%8Dbot/%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0%E6%8A%95%E7%A8%BF%E7%94%A8%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC?oldid=23300 ユーザーブロ
 グ:P進大好きbot/式神巨大数投稿用エントリー]についての情報が投稿されました。
@@ -106,11 +106,11 @@ https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9
 
 それは上記のような内容でした。
 
-=== 審査 14 ===
+=== 審査 12 ===
 
 2020/10/10 (JST) に Okkuu 氏により式神巨大数運営's server で[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:JUNKUN_HISALAWA/%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%80%8C9%EF%BF%A1%E3%80%8D?oldid=23226 ユーザーブログ:JUNKUN_HISALAWA/式神巨大数エントリー「9￡」]について無効とされました。「計算結果が出力されるはずのテキストファイルの内容がEOT(伝送終了文字)1文字になります」とのことです。
 
-=== 審査 15 ===
+=== 審査 13 ===
 
 2020/10/31 (JST) に Okkuu 氏により式神巨大数運営's server で[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:%E3%81%BF%E3%81%9A%E3%81%A9%E3%82%89/%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC_%E7%B7%A8%E9%9B%86%E4%B8%AD?oldid=23008 ユーザーブログ:みずどら/式神巨大数エントリー_編集中]と[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:Gaoji/%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0%E3%81%B8%E3%81%AE%E6%8A%95%E7%A8%BF?oldid=23173 ユーザーブログ:Gaoji/式神巨大数への投稿]についての解析が投稿されました。
 
@@ -126,7 +126,7 @@ f_{ω63+3}(4)<白アスター数<f_{ω63+3}(5)
 
 それは上記のような内容でした。
 
-=== 審査 16 ===
+=== 審査 14 ===
 
 2020/01/31 (JST) に Okkuu 氏により式神巨大数運営's server で[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:Naruyoko/%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0%E6%8A%95%E7%A8%BF%E7%94%A8?oldid=23656 ユーザーブログ:Naruyoko/式神巨大数投稿用]についての情報が投稿されました。
 
@@ -140,15 +140,15 @@ main.min.min.jsは(0,2)[11](というか多分11以上の任意の自然数)の�
 
 === エントリー 1 ===
 
-'''弱Buchholz OCFの限界数'''は、審査 12 により \( f _ { \varepsilon _ 0 + 1 } ( 100 ) \) と近似されると思われます。
+'''弱Buchholz OCFの限界数'''は、審査 10 により \( f _ { \varepsilon _ 0 + 1 } ( 100 ) \) と近似されると思われます。
 
 === エントリー 2 ===
 
-'''拡張弱Buchholz OCFの限界数'''は、審査 13 により無効であると思われます。
+'''拡張弱Buchholz OCFの限界数'''は、審査 11 により無効であると思われます。
 
 === エントリー 3 ===
 
-'''白アスター数 (by whiteaster.java)''' は、審査 11 と 審査 15 により \( f _ { \omega \times 63 + 3 } ( 4 ) \) より大きく \( f _ { \omega \times 63 + 3 } ( 5 ) \) より小さいと思われます。
+'''白アスター数 (by whiteaster.java)''' は、審査 9 と 審査 13 により \( f _ { \omega \times 63 + 3 } ( 4 ) \) より大きく \( f _ { \omega \times 63 + 3 } ( 5 ) \) より小さいと思われます。
 
 === エントリー 4 ===
 
@@ -156,7 +156,7 @@ main.min.min.jsは(0,2)[11](というか多分11以上の任意の自然数)の�
 
 === エントリー 5 ===
 
-'''自己増殖コード数'''は、 審査 7 により \( f _ \omega ^ { 10 } ( 20 ) \) が上限となります。
+'''自己増殖コード数'''は、 審査 6 により \( f _ \omega ^ { 10 } ( 20 ) \) が上限となります。
 
 === エントリー 6 ===
 
@@ -164,7 +164,7 @@ main.min.min.jsは(0,2)[11](というか多分11以上の任意の自然数)の�
 
 === エントリー 7 ===
 
-'''９￡'''は、審査 14 により無効です。
+'''９￡'''は、審査 12 により無効です。
 
 === エントリー 8 ===
 
@@ -172,11 +172,11 @@ main.min.min.jsは(0,2)[11](というか多分11以上の任意の自然数)の�
 
 === エントリー 9 ===
 
-'''λ<sub>3</sub>''' は、審査 9 により無効であると思われます。
+'''λ<sub>3</sub>''' は、審査 8 により無効であると思われます。
 
 === エントリー 10 ===
 
-'''node name.js''' は、審査 16 により無効であると思われます。
+'''node name.js''' は、審査 14 により無効であると思われます。
 
 === エントリー 11 ===
 
