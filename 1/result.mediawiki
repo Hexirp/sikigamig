@@ -111,7 +111,7 @@ https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9
 
 === 審査 13 ===
 
-[[File:Fermi analysis.png|thumb|200px|right]]
+[[File:Fermi analysis.png|thumb|200px|right|ふえるみん数の解析途中]]
 
 2020/10/31 (JST) に Okkuu 氏により式神巨大数運営's server で[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:%E3%81%BF%E3%81%9A%E3%81%A9%E3%82%89/%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC_%E7%B7%A8%E9%9B%86%E4%B8%AD?oldid=23008 ユーザーブログ:みずどら/式神巨大数エントリー_編集中]と[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:Gaoji/%E5%BC%8F%E7%A5%9E%E5%B7%A8%E5%A4%A7%E6%95%B0%E3%81%B8%E3%81%AE%E6%8A%95%E7%A8%BF?oldid=23173 ユーザーブログ:Gaoji/式神巨大数への投稿]についての解析が画像付きで投稿されました。
 
