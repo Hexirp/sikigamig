@@ -8,11 +8,11 @@
 
 === 記録 1 ===
 
-2020/06/27 00:19 (JST) に Hexirp 氏により[[ユーザーブログ:Hexirp/(2020-06-26) 解析]]の初版が投稿されました。この記事は[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:Seruranblue/sikigamig_entry?oldid=23186 ユーザーブログ:Seruranblue/sikigamig entry] で投稿されたプログラム <code>output-2.c</code> で計算される巨大数 "output-2.c" を審査するものである。
+2020/06/27 00:19 (JST) に Hexirp 氏により[[ユーザーブログ:Hexirp/(2020-06-26) 解析]]の初版が投稿されました。この記事は[https://googology.wikia.org/ja/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%96%E3%83%AD%E3%82%B0:Seruranblue/sikigamig_entry?oldid=23186 ユーザーブログ:Seruranblue/sikigamig entry] で投稿されたプログラム <code>output-2.c</code> で計算される巨大数 "output-2.c" を審査するものです。
 
-\[ \exp _ b ^ n ( a ) = \begin{cases} a & ( n = 0 ) \\ \exp _ b ( \exp _ b ^ { n' } ( a ) ) & ( n = n' + 1 ) \\ \end{cases} \]
+<nowiki>\[ \exp _ b ^ n ( a ) = \begin{cases} a & ( n = 0 ) \\ \exp _ b ( \exp _ b ^ { n' } ( a ) ) & ( n = n' + 1 ) \\ \end{cases} \]</nowiki>
 
-この投稿は上記のような関数を導入して解析を行っている。なお、 \( \exp _ b ( a ) = b ^ a \) である。
+この投稿は上記のような関数を導入して解析を行っています。なお、 \( \exp _ b ( a ) = b ^ a \) です。
 
 * \( \exp _ 2 ^ { { 10 } ^ { 24 } } ( 9 ) \) 以上である。
 * \( \exp _ 2 ^ { 2 \times { 10 } ^ { 24 } - 1 } ( 9 ) \) 以下である。
