@@ -290,14 +290,14 @@ main.min.min.jsは(0,2)[11](というか多分11以上の任意の自然数)の�
 
 オリジナル部門に対するランキングは以下の通りになります。
 
-# <big>20年代初頭のブラクラ数</big>
-# 弱Buchholz OCFの限界数
-# 自己増殖コード数
-# output-2.c
+# <big>20年代初頭のブラクラ数 - Nayuta Ito 氏</big>
+# 弱Buchholz OCFの限界数 - p進大好きbot 氏
+# 自己増殖コード数 - p進大好きbot 氏
+# output-2.c - Seruranblue 氏
 
 プログラム化部門に対するランキングは以下の通りになります。
 
-# <big>白アスター数 (by whiteaster.java)</big>
+# <big>白アスター数 (by whiteaster.java) - みずどら氏</big>
 
 === 殿堂入り ===
 
