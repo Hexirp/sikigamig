@@ -303,3 +303,9 @@
 == チャット ==
 
 チャットは、[https://googology.wikia.org/ja/wiki/ユーザー:Hexirp/式神巨大数/2021/チャット ユーザー:Hexirp/式神巨大数/2021/チャット]のページのことです。
+
+== 脚注 ==
+
+=== 注釈 ===
+
+<references group="note" />
